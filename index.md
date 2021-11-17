@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Eliza's Test Page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Just a page for me to practice coding. Nothing to see here, folks...
